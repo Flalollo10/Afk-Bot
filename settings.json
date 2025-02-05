@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "Flalollo10_bot",
     "password": "your_password",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "Flalollo10.aternos.me",
+    "port": 30219,
     "version": "1.19.3"
   },
 
